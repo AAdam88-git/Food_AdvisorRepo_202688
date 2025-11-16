@@ -1,5 +1,0 @@
-fastapi
-uvicorn
-pydantic
-httpx
-psycopg2-binary
