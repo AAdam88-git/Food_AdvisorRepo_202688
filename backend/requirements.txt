@@ -1,0 +1,12 @@
+# Core web framework
+Flask>=2.0
+
+# SQLAlchemy ORM + PostgreSQL driver
+SQLAlchemy>=2.0
+psycopg2-binary>=2.9
+
+# WSGI server for production
+gunicorn>=20.0
+
+# (Optional) if you want to test with an SQLite fallback in dev
+# No need to list, SQLite comes built‑in with Python
