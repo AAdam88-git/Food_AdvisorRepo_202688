@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pydantic
-httpx
-psycopg2-binary
-python-dotenv    # optional – only for local dev
